@@ -1,0 +1,7 @@
+{
+  "model_name": "E2 TF-IDF + LogReg + class_balanced",
+  "model_kind": "classical",
+  "max_len": 650,
+  "min_token_len": 2,
+  "num_classes": 14
+}
